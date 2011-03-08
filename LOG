@@ -7,4 +7,6 @@ key here
 ----------------------
 
 setup 01
-    Edits of the README and LOG files to include setup information.
+	Edits of the README and LOG files to include setup information.
+setup 02
+	Attempt to remove soft tabs
