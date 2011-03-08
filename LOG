@@ -3,10 +3,19 @@ These changes will be indexed using "keys"
 The formatting of this log is
 ----------------------
 key here
-    Description of key here
+	Description of key here
 ----------------------
 
-setup 01
-	Edits of the README and LOG files to include setup information.
+php2rss setup
+	Removed all soft tabs.
+	Created /WebDev
+	Created /WebDev/scripts
+	Created /WebDev/scripts/PHP
+	Created /WebDev/scripts/PHP/php2rss
+	Created /WebDev/scripts/PHP/php2rss/.htaccess
+	Created /WebDev/scripts/PHP/php2rss/README
+	Created /WebDev/scripts/PHP/php2rss/rss.php
 setup 02
 	Attempt to remove soft tabs
+setup 01
+	Edits of the README and LOG files to include setup information.
