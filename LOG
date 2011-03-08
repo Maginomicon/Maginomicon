@@ -1,1 +1,10 @@
 This is a log of all changes across all subprojects.
+These changes will be indexed using "keys"
+The formatting of this log is
+----------------------
+key here
+    Description of key here
+----------------------
+
+setup 01
+    Edits of the README and LOG files to include setup information.
